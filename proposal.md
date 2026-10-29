@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *mlpack*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+  mlpack is an open-source machine learning library written in C++ that has an intended goal of being what LAPACK is to linear algebra, such that mlpack can be a "Swiss Army knife" of sorts for machine learning. This library is intended for machine learning research as a lightweight C++ implementation that is ideal for deployment and production environments. The library is described as intuitive, fast, and flexible.
 
 ### Stats
 
