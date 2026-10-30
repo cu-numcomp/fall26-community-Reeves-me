@@ -30,12 +30,18 @@ Please edit this file and push to your repository.
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
+- [X] I have installed the software
+- [X] I have run at least one example
+- [] I have run the test suite
 - [ ] The test suite passes
 
 ### Notes/concerns/risks
+
+*Ouputs of Tests*
+warning: solve(): system is singular (rcond: 3.15754e-17); attempting approx solution
+===============================================================================
+All tests passed (156165 assertions in 37 test cases)
+
 
 Please comment on any anomalies or known risks to following this
 project, if you were unable to answer any questions above, or
