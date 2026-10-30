@@ -32,15 +32,17 @@ encountered a problem.
 
 - [X] I have installed the software
 - [X] I have run at least one example
-- [] I have run the test suite
-- [ ] The test suite passes
+- [X] I have run the test suite
+- [X ] The test suite passes
 
 ### Notes/concerns/risks
 
 *Ouputs of Tests*
-warning: solve(): system is singular (rcond: 3.15754e-17); attempting approx solution
-===============================================================================
+Example:
 All tests passed (156165 assertions in 37 test cases)
+
+Test Suite:
+All tests passed (37420944 assertions in 2862 test cases)
 
 
 Please comment on any anomalies or known risks to following this
