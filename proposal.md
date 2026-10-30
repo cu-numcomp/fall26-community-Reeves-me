@@ -3,7 +3,7 @@ Please edit this file and push to your repository.
 
 ## Software: *mlpack*
 
-  mlpack is an open-source machine learning library written in C++ that has an intended goal of being what LAPACK is to linear algebra, such that mlpack can be a "Swiss Army knife" of sorts for machine learning. This library is intended for machine learning research as a lightweight C++ implementation that is ideal for deployment and production environments. The library is described as intuitive, fast, and flexible.
+  mlpack is an open-source machine learning library written in C++ that has an intended goal of being what LAPACK is to linear algebra, such that mlpack can be a "Swiss Army knife" of sorts for machine learning. This library is intended for machine learning research as a lightweight C++ implementation that is ideal for deployment and production environments. The library is described as intuitive, fast, and flexible. This package relates to our class through the use of linear algebra for large data sets and optimization for training models. Specifically, it uses ensmallen to help with numerical optimization. Furthermore, it was developed originally at Georgia Tech's FASTLab.
 
 ### Stats
 
