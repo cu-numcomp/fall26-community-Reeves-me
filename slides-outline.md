@@ -55,13 +55,13 @@ Overall Should answer what is the intent of this open software and then how it r
 
 **What key problems are solved?**
 
-- [] Rootfinding? Interpolation? Regression?
-- [] Is it general-purpose software or domain-specific? What makes it unique?
+- [X] Rootfinding? Interpolation? Regression?
+- [X] Is it general-purpose software or domain-specific? What makes it unique?
 
 **Who are the stakeholders**
 
-- [] Who develops the software, who uses it, who pays for it?
-- [] What are they looking for?
+- [X] Who develops the software, who uses it, who pays for it?
+- [X] What are they looking for?
 - [] How do they communicate and collaborate?
 - [] Who uses the software?
 - [] Who is impacted (positively or negatively) by use of the software?
