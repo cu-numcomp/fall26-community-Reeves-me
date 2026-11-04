@@ -61,8 +61,8 @@ Overall Should answer what is the intent of this open software and then how it r
 - [X] Who develops the software, who uses it, who pays for it?
 - [X] What are they looking for?
 - [X] How do they communicate and collaborate?
-- [] Who uses the software?
-- [] Who is impacted (positively or negatively) by use of the software?
+- [X] Who uses the software?
+- [X] Who is impacted (positively or negatively) by use of the software?
 
 **Metrics and features**
 
