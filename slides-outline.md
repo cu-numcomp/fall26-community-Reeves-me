@@ -4,17 +4,17 @@ Just open up the presentation with that the open source software community I cho
 
 **Slide 2: What is mlpack?**
 
- - Mlpack is a open-source C++ machine learning library that started in 2007 at Georgia Tech and eventually moved to github in 2014, [1708.05279] Designing and building the mlpack open-source machine learning library 
- - More specifically, it is an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages (Quoted from ReadMe,  mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library )
- - To help define this a little better,  header-only means the full definitions of all macros, functions, and classes comprising the library are seen by the compiler in header file form, that has no separate implementation files or precompiled binaries: Header-only - Wikipedia 
- - This specific method of being a fast, header-only machine learning library is what separated it from its competitors, such that it can be used as a "Swiss Army knife” for C++-based machine learning (GitHub Readme, mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library)
+ - Mlpack is a open-source C++ machine learning library that started in 2007 at Georgia Tech and eventually moved to github in 2014, [[1708.05279] Designing and building the mlpack open-source machine learning library ](https://ar5iv.arxiv.org/html/1708.05279)
+ - More specifically, it is an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages ([Quoted from ReadMe,  mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library ](https://github.com/mlpack/mlpack))
+ - To help define this a little better,  header-only means the full definitions of all macros, functions, and classes comprising the library are seen by the compiler in header file form, that has no separate implementation files or precompiled binaries: [Header-only - Wikipedia ](https://en.wikipedia.org/wiki/Header-only)
+ - This specific method of being a fast, header-only machine learning library is what separated it from its competitors, such that it can be used as a "Swiss Army knife” for C++-based machine learning ([GitHub Readme, mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library](https://github.com/mlpack/mlpack))
  - As a header-only library, it depends on only three libraries: Armadillo, ensmallen, and cereal
  - As of recently, the latest mlpack software, mlpack 4, had the goal of refactoring to allow for an easier prototyping-to-deployment pipeline, including bindings to other languages like Python or Julia.
- - Their License states it is free for commercial use as long as you include a citation: mlpack/LICENSE.txt at 4.8.0 · mlpack/mlpack
+ - Their License states it is free for commercial use as long as you include a citation: [mlpack/LICENSE.txt at 4.8.0 · mlpack/mlpack](https://github.com/mlpack/mlpack/blob/4.8.0/LICENSE.txt)
 
 **Slide 3: What problem did mlpack attempt to fix?**
 
- - According to the earliest documentation I could find on mlpack titled “MLPACK: A Scalable C++  - Machine Learning Library” which was originally published in March 2013, it states the key issue that mlpack aimed to originally solve, curtin13a.dvi 
+ - According to the earliest documentation I could find on mlpack titled “MLPACK: A Scalable C++  - Machine Learning Library” which was originally published in March 2013, it states the key issue that mlpack aimed to originally solve, [curtin13a.dvi](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
  - They specifically stated that the problem was that few, if any, free machine learning libraries “offer efficient algorithms to the average user,” primarily focusing on the issue of scalability and
 
 **Slide 4: Who are the stockholders/sponsors?**
