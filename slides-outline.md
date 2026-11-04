@@ -47,6 +47,14 @@ Just open up the presentation with the open-source software community I chose to
 
  - …
 
+**Slide 10: My Question**
+
+ - …
+
+**Slide 11: Group Project Proposal**
+
+ - …
+
 **Information to fill out**
 
 Overall Should answer what is the intent of this open software and then how it relates back to this class with an example and an idea for experiment that would be interesting for a group project.  Should answer most if not all of the following questions:
