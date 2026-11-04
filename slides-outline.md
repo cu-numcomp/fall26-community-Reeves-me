@@ -15,7 +15,8 @@ Just open up the presentation with that the open source software community I cho
 **Slide 3: What problem did mlpack attempt to fix?**
 
  - According to the earliest documentation I could find on mlpack titled “MLPACK: A Scalable C++  - Machine Learning Library” which was originally published in March 2013, it states the key issue that mlpack aimed to originally solve, [curtin13a.dvi](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
- - They specifically stated that the problem was that few, if any, free machine learning libraries “offer efficient algorithms to the average user,” primarily focusing on the issue of scalability and
+ - They specifically stated that the problem was that few, if any, free machine learning libraries “offer efficient algorithms to the average user,” primarily focusing on the issue of scalability and efficiency through the use of LAPACK and the Armadillo matrix library, such that MLPACK becomes the machine learning analog to the general-purpose LAPACK that *"eliminates unnecessary copying of data sets and performs expression optimization unavailable in other languages"* [MLPACK: AScalable C++ Machine Learning Library](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
+ - The four major goals of development the team focused on when making this pack were as follows: one, implement scalable and fast machine learning algorithms. Two, design an intuitive, consistent, and simple API for non-expert users. Three, implement a variety of machine learning methods, and finally, four, provide cutting-edge machine learning algorithms unavailable elsewhere. [MLPACK: AScalable C++ Machine Learning Library](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
 
 **Slide 4: Who are the stockholders/sponsors?**
 
@@ -28,6 +29,7 @@ Just open up the presentation with that the open source software community I cho
 **Slide 6: How do they define/measure their software?**
 
  - …
+ - [A generic and fast C++ optimization framework](https://arxiv.org/pdf/1711.06581v1), about mlPack
 
 **Slide 7: What are they good at vs. what are they poorer at?**
 
