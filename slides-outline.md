@@ -1,17 +1,23 @@
-*Slide 1: Introduction*
+**Slide 1: Introduction**
+
 Just open up the presentation with that the open source software community I choose to learn about was mlpack
-*Slide 2: What is mlpack?*
-Mlpack is a open-source C++ machine learning library that started in 2007 at Georgia Tech and eventually moved to github in 2014, [1708.05279] Designing and building the mlpack open-source machine learning library 
-More specifically, it is an intuitive, fast, and flexible header-only C++ machine library with bindings to other languages (Quoted from ReadMe,  mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library )
-To help define this a little better,  header-only means the full definitions of all macros, functions and classes comprising the library are seen by the compiler in header file form, that has no separate implementation files or precompiled binaries: Header-only - Wikipedia 
-This specific method of being fast and header only machine learning library, is what separated it from its competitors, such that it can be used as a "swiss army knife” for C++ based machine learning (github Read Me, mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library)
-As a header only library it depends on only three libraries: Armadillo, ensmallen, and cereal
-As of recent the latest mlpack software mlpack 4 had the goal of refactoring to allow for a an easier prototyping to deployment pipeline, including bindings to other languages like Python or Julia.
-Their License states it is free for commercial use as long as you include a citation, mlpack/LICENSE.txt at 4.8.0 · mlpack/mlpack 
-*Slide 3: What problem did mlpack attempt to fix?*
-According to the earliest documentation I could find on mlpack titled “MLPACK: A Scalable C++ Machine Learning Library” which was originally published in march 2013 states the key issue that mlpack aimed to originally solve, curtin13a.dvi 
-They specifically stated that the problem was that few if any free machine learning libraries “offer efficient algorithms to the average user,” primarily focusing on the issue of scalability and 
-*Slide 4: Who are the stockholders/sponsors?*
+
+**Slide 2: What is mlpack?**
+
+ - Mlpack is a open-source C++ machine learning library that started in 2007 at Georgia Tech and eventually moved to github in 2014, [1708.05279] Designing and building the mlpack open-source machine learning library 
+ - More specifically, it is an intuitive, fast, and flexible header-only C++ machine library with bindings to other languages (Quoted from ReadMe,  mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library )
+ - To help define this a little better,  header-only means the full definitions of all macros, functions and classes comprising the library are seen by the compiler in header file form, that has no separate implementation files or precompiled binaries: Header-only - Wikipedia 
+ - This specific method of being fast and header only machine learning library, is what separated it from its competitors, such that it can be used as a "swiss army knife” for C++ based machine learning (github Read Me, mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library)
+ - As a header only library it depends on only three libraries: Armadillo, ensmallen, and cereal
+ - As of recent the latest mlpack software mlpack 4 had the goal of refactoring to allow for a an easier prototyping to deployment pipeline, including bindings to other languages like Python or Julia.
+ - Their License states it is free for commercial use as long as you include a citation, mlpack/LICENSE.txt at 4.8.0 · mlpack/mlpack
+
+**Slide 3: What problem did mlpack attempt to fix?**
+
+ - According to the earliest documentation I could find on mlpack titled “MLPACK: A Scalable C++  - Machine Learning Library” which was originally published in march 2013 states the key issue that mlpack aimed to originally solve, curtin13a.dvi 
+ - They specifically stated that the problem was that few if any free machine learning libraries “offer efficient algorithms to the average user,” primarily focusing on the issue of scalability and
+
+**Slide 4: Who are the stockholders/sponsors?**
 …
 *Slide 5: How collaboration happens and who uses this software?*
 …
