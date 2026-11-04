@@ -1,12 +1,12 @@
 **Slide 1: Introduction**
 
-Just open up the presentation with that the open source software community I choose to learn about was mlpack
+Just open up the presentation with the open-source software community I chose to learn about: mlpack
 
 **Slide 2: What is mlpack?**
 
- - Mlpack is a open-source C++ machine learning library that started in 2007 at Georgia Tech and eventually moved to github in 2014, [[1708.05279] Designing and building the mlpack open-source machine learning library ](https://ar5iv.arxiv.org/html/1708.05279)
+ - Mlpack is an open-source C++ machine learning library that started in 2007 at Georgia Tech and eventually moved to GitHub in 2014, [[1708.05279] Designing and building the mlpack open-source machine learning library ](https://ar5iv.arxiv.org/html/1708.05279)
  - More specifically, it is an intuitive, fast, and flexible header-only C++ machine learning library with bindings to other languages ([Quoted from ReadMe,  mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library ](https://github.com/mlpack/mlpack))
- - To help define this a little better,  header-only means the full definitions of all macros, functions, and classes comprising the library are seen by the compiler in header file form, that has no separate implementation files or precompiled binaries: [Header-only - Wikipedia ](https://en.wikipedia.org/wiki/Header-only)
+ - To help define this a little better,  header-only means the full definitions of all macros, functions, and classes comprising the library are seen by the compiler in header file form, with no separate implementation files or precompiled binaries: [Header-only - Wikipedia ](https://en.wikipedia.org/wiki/Header-only)
  - This specific method of being a fast, header-only machine learning library is what separated it from its competitors, such that it can be used as a "Swiss Army knife” for C++-based machine learning ([GitHub Readme, mlpack/mlpack: mlpack: a fast, header-only C++ machine learning library](https://github.com/mlpack/mlpack))
  - As a header-only library, it depends on only three libraries: Armadillo, ensmallen, and cereal
  - As of recently, the latest mlpack software, mlpack 4, had the goal of refactoring to allow for an easier prototyping-to-deployment pipeline, including bindings to other languages like Python or Julia.
@@ -19,11 +19,14 @@ Just open up the presentation with that the open source software community I cho
 
 **Slide 4: Who are the stockholders/sponsors?**
 
- - …
+ - Sponsor: NumFocus
+ - Support from: Georgia Tech, Freie Universität Berlin, Symantic, NSF, and Google
+ - Google specifically has continued to work with mlpack for over a decade via Google Summer of Code.
+ - [2023 mlpack 4](https://www.mlpack.org/papers/2023mlpack.pdf)
 
-**Slide 5: How collaboration happens and who uses this software?**
+**Slide 5: How does collaboration happen, and who uses this software?**
 
- - …
+- ...
 
 **Slide 6: How do they define/measure their software?**
 
