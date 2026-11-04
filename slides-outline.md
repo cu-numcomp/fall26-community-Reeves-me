@@ -26,7 +26,9 @@ Just open up the presentation with the open-source software community I chose to
 
 **Slide 5: How does collaboration happen, and who uses this software?**
 
-- ...
+- The software is specifically made for anyone interested in using and/or learning about Machine Learning, though they do specify it is more for researchers and ML engineers.
+- The contributors to this project are anyone in the community, as they have had over 220 contributors in the history of the software.[2023 mlpack 4](https://www.mlpack.org/papers/2023mlpack.pdf)
+- Collaboration happens through git pull requests, where they further specify in their Contributions.md the specific format for how to contribute, with a specific style guide explaining your understanding and how it fixes a feature. As well, in the explanation, they specify that you have to explain it as if you were explaining it to a new user. [contribution.md](https://github.com/mlpack/mlpack/blob/master/CONTRIBUTING.md)
 
 **Slide 6: How do they define/measure their software?**
 
@@ -62,7 +64,7 @@ Overall Should answer what is the intent of this open software and then how it r
 
 - [X] Who develops the software, who uses it, who pays for it?
 - [X] What are they looking for?
-- [] How do they communicate and collaborate?
+- [X] How do they communicate and collaborate?
 - [] Who uses the software?
 - [] Who is impacted (positively or negatively) by use of the software?
 
