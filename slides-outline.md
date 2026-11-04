@@ -35,7 +35,7 @@ Just open up the presentation with the open-source software community I chose to
  - …
  - [A generic and fast C++ optimization framework](https://arxiv.org/pdf/1711.06581v1), about mlPack
 
-**Slide 7: What regression model do they use?  And is it made in the interest of good conditioning or choices of stability?**
+**Slide 7: List of the regression models they use? And are the models made for good conditioning or choices of stability?**
  
  - …
 
@@ -43,13 +43,9 @@ Just open up the presentation with the open-source software community I chose to
 
  - …
 
-**Slide 9: An actual example of the mlpack from the model**
+**Slide 9: An actual example of the mlpack from the model, that was just explained**
 
  - …
-
-**Slide 10: A broader view of the models (i.e. a list of models)**
-
- - ...
 
 **Information to fill out**
 
