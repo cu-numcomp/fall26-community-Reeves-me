@@ -15,7 +15,17 @@ Just open up the presentation with the open-source software community I chose to
 **Slide 3: What problem did mlpack attempt to fix?**
 
  - According to the earliest documentation I could find on mlpack titled “MLPACK: A Scalable C++  - Machine Learning Library” which was originally published in March 2013, it states the key issue that mlpack aimed to solve originally, they specifically stated that the problem was that few, if any, free machine learning libraries “offer efficient algorithms to the average user,” primarily focusing on the issue of scalability and efficiency through the use of LAPACK and the Armadillo matrix library, such that MLPACK becomes the machine learning analog to the general-purpose LAPACK that *"eliminates unnecessary copying of data sets and performs expression optimization unavailable in other languages"* [MLPACK: A Scalable C++ Machine Learning Library](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
- - The four major goals of development the team focused on when making this pack were as follows: one, implement scalable and fast machine learning algorithms. Two, design an intuitive, consistent, and simple API for non-expert users. Three, implement a variety of machine learning methods, and finally, four, provide cutting-edge machine learning algorithms unavailable elsewhere. [MLPACK: AScalable C++ Machine Learning Library](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
+ - The four major goals of development the team focused on when making this pack were as follows:
+ - [MLPACK: AScalable C++ Machine Learning Library](https://dl.acm.org/doi/pdf/10.5555/2567709.2502606)
+
+1.) implement scalable and fast machine learning algorithms.
+
+2.) design an intuitive, consistent, and simple API for non-expert users. 
+
+3.) implement a variety of machine learning methods, and finally 
+
+4.) provide cutting-edge machine learning algorithms unavailable elsewhere. 
+
 
 **Slide 4: Who are the stockholders/sponsors?**
 
