@@ -50,11 +50,16 @@ Just open up the presentation with the open-source software community I chose to
 
 **Slide 7: List of the regression models they use? And are the models made for good conditioning or choices of stability?**
  
- - …
+ - BayesianLinearRegression: Bayesian L2-penalized linear regression
+ - DecisionTreeRegressor: ID3-style decision tree regressor
+ - LARS: Least Angle Regression (LARS), L1-regularized and L2-regularized
+ - LinearRegression: L2-regularized linear regression (ridge regression)
+ - They state they are updating their documentation, so not all functionality is documented yet.
+ - https://www.mlpack.org/doc/user/modeling.html
 
 **Slide 8: An example of one of the regression models they use, and how it relates back to our class**
 
- - …
+ - How Linear Regression relates back to our class. mlpack uses a form of linear regression that we have not learned in our class
 
 **Slide 9: An actual example of the mlpack from the model, that was just explained**
 
