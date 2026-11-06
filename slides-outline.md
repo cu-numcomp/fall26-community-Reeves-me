@@ -42,7 +42,10 @@ Just open up the presentation with the open-source software community I chose to
 
 **Slide 6: How do they define/measure their software?**
 
- - …
+ - They measure themselves to be more flexible and efficient in use. They measure flexibility via calculations with different datasets.
+ - <img width="666" height="445" alt="image" src="https://github.com/user-attachments/assets/cac6aa20-d61a-4f5f-867d-a0b5a9520ced" />
+ - Furthermore, they measure the efficiency compared to their competitors by using runtimes with the k-nearest-neighbors and k-means clustering algorithms.
+ - <img width="528" height="302" alt="image" src="https://github.com/user-attachments/assets/68bd04d7-c72f-4d14-9663-a966dcf5ba61" />
  - [A generic and fast C++ optimization framework](https://arxiv.org/pdf/1711.06581v1), about mlPack
 
 **Slide 7: List of the regression models they use? And are the models made for good conditioning or choices of stability?**
